@@ -1,0 +1,3 @@
+Open in visual studio and open an emulator or use android phone and do flutter run and it should open the project.
+
+Or use android studio. 
